@@ -1,7 +1,9 @@
 ## Rails-Angular-Tutorial
 
-See the accompanying blog posts on my [blog](http://asanderson15.github.io/).
+See the accompanying blog posts on my [blog](http://asanderson.org/).
 
 This continues to be a work in progress.  The parts completed thus far are:
 
-- [Part 1](http://asanderson15.github.io/posts/2013/06/03/bootstrapping-angular-rails-part-1.html) - Creating Rails app, adding AngularJS, setting up structure, implementing basic Rails and AngularJS controllers
+- [Part 1](http://asanderson.org/posts/2013/06/03/bootstrapping-angular-rails-part-1.html) - Creating Rails app, adding AngularJS, setting up structure, implementing basic Rails and AngularJS controllers
+
+- [Part 2](http://asanderson.org/posts/2013/06/23/bootstrapping-angular-rails-part-2.html) - Modularizing the AngularJS side of the app, setting up AngularJS routing, and using Angular routing to manage multiple controllers and templates.
