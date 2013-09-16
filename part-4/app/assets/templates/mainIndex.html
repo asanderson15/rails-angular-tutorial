@@ -1,0 +1,5 @@
+<h1 class="text-center">My blog</h1>
+<div class="row" ng-repeat="post in data.posts">
+    <h2><a ng-click="viewPost($index)">{{post.title}}</a></h2>
+    <p>{{post.contents}}</p>
+</div>

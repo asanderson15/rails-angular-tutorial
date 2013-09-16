@@ -9,3 +9,5 @@ This continues to be a work in progress.  The parts completed thus far are:
 - [Part 2](http://asanderson.org/posts/2013/06/23/bootstrapping-angular-rails-part-2.html) - Modularizing the AngularJS side of the app, setting up AngularJS routing, and using Angular routing to manage multiple controllers and templates.
 
 - [Part 3](http://asanderson.org/posts/2013/08/19/bootstrapping-angular-rails-part-3.html) - Building a simple Rails API to serve blog post data to the main Angular controller.
+
+- [Part 4](http://asanderson.org/posts/2013/09/15/bootstrapping-angular-rails-part-4.html) - Building a shared AngularJS service to access our Rails API.
