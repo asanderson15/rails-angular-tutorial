@@ -12,4 +12,4 @@ This continues to be a work in progress.  The parts completed thus far are:
 
 - [Part 4](http://asanderson.org/posts/2013/09/15/bootstrapping-angular-rails-part-4.html) - Building a shared AngularJS service to access our Rails API.
 
-- [Part 5](http://asanderson.org/posts/2013/11/20/bootstrapping-angular-rails-part-5.html) - Creating posts from the client side and using promises to handle asynchronous data loading.
+- [Part 5](http://asanderson.org/posts/2013/11/20/bootstrapping-angular-rails-part-5.html) - Creating server database records from the client side and using Angular promises to handle asynchronous data loading.
