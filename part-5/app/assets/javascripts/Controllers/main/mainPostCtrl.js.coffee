@@ -1,4 +1,4 @@
-@PostCtrl = ($scope, $routeParams, $q, postData) ->
+@PostCtrl = ($scope, $routeParams, $location, $q, postData) ->
 
   $scope.data =
     postData: postData.data
@@ -29,4 +29,4 @@
   postData.loadPosts(@deferred)
 
 
-@PostCtrl.$inject = ['$scope', '$routeParams', '$q', 'postData']
+@PostCtrl.$inject = ['$scope', '$routeParams', '$location', '$q', 'postData']
